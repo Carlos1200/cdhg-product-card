@@ -3,6 +3,10 @@
 Este es un paquete de pruebas de despliegue de NPM
 
 
+## Instalación
+
+    npm install cdhg-product-card
+
 ## Carlos David Herrera Guardado
 
 ## Ejemplo
